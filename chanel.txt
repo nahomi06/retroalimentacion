@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CHANEL</title>
+    </head>>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="" medias="all" />
+    <h1>CHANEL</h1>
+    <p><h3>Chanel es una casa de modas francesa, fundada en<br>
+         París por la diseñadora Coco Chanel, en 1910.<br>
+        La marca del izan se especializa en diseñar y<br>
+        confeccionar artículos de lujo, como indumentaria<br>
+         de alta costura, lista para usar, bolsos, perfumes<br>
+          y cosméticos, entre otros.</h3></p>
+          <h2 id="lista1">PRENDAS MAS VENDIDAS</h2>
+          <ol>
+            <li></li>
+          </ol>
+
